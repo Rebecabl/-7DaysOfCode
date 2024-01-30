@@ -1,9 +1,7 @@
 # #7DaysOfCode - Machine Learning
-| Desafio                                  | Descrição                                                                                                             |
+| Challenge                               | Description                                                                                                           |
 | ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| **Organizador**                          | Letícia Pires (Alura)                                                                                                |
-| **Objetivo**                             | Analisar dados do Spotify e aplicar técnicas de Machine Learning para prever a popularidade de músicas.               |
-| **Etapas do Desafio**                    | Coleta de dados, análise exploratória, pré-processamento, escolha e treinamento de modelos, avaliação e apresentação. |
-| **Metas**                                | Desenvolver um modelo que utilize características musicais para antecipar a popularidade de uma música.               |
-
-
+| **Organizer**                           | Letícia Pires (Alura)                                                                                                |
+| **Objective**                           | Analyze Spotify data and apply Machine Learning techniques to predict the popularity of songs.                        |
+| **Challenge Stages**                    | Data collection, exploratory analysis, preprocessing, model selection and training, evaluation, and results presentation. |
+| **Goals**                               | Develop a model that utilizes musical features to anticipate the popularity of a song.                                |
