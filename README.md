@@ -2,8 +2,8 @@
   <img src="https://github.com/letpires/7DaysOfCodeSpotifyML/blob/main/7daysofcode_logo.png" >
 </p>
 
-# Machine Learning - One Day
-| Challenge                               | Description                                                                                                           |
+# Machine Learning 
+| One Day                               | Description                                                                                                           |
 | ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | **Organizer**                           | Letícia Pires (Alura)                                                                                                |
 | **Objective**                           | Analyze Spotify data and apply Machine Learning techniques to predict the popularity of songs.                        |
