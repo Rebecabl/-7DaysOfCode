@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/letpires/7DaysOfCodeSpotifyML/blob/main/7daysofcode_logo.png" >
+</p>
+
 # #7DaysOfCode - Machine Learning
 | Challenge                               | Description                                                                                                           |
 | ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
